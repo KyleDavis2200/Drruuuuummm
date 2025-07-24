@@ -1,3 +1,10 @@
+---
+title: Drruuuuummm
+author: Kyle Davis
+description: A plastic antweight combat robot with a very wide drum
+created_at: 2025-07-16
+---
+
 
 7/16/2024
 8 Hours

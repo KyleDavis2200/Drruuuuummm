@@ -4,6 +4,11 @@ Plastic antweight combat robot with a **wide** drum. The main inspiration behind
 
 ## Features
 
+* Big Drum! 150mm wide, 187g mass.
+* Four wheel drive for optimal maneuverability!
+* Invertible design, self rights using the weapon.
+* Indirect drive for increased durability.
+
 ## Images
 <img width="996" height="552" alt="image" src="https://github.com/user-attachments/assets/1271d81a-089e-4786-8a8a-cf4d63bd7a89" />
 <img width="1271" height="593" alt="image" src="https://github.com/user-attachments/assets/27bf2a83-5a02-4bac-b9f2-5f0e7ac77326" />

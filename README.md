@@ -1,9 +1,15 @@
 # Drruuuuummm
 Plastic antweight combat robot with a **wide** drum. The main inspiration behind this robot was Alexander Richmond's (RIP), plastic antweight Gypsey Danger, which he was never able to make in weight before his untimely passing.
+<img width="996" height="552" alt="image" src="https://github.com/user-attachments/assets/aa7ca3db-e80c-45be-989a-2f2c636acfcc" />
 
 ## Features
 
 ## Images
+<img width="996" height="552" alt="image" src="https://github.com/user-attachments/assets/1271d81a-089e-4786-8a8a-cf4d63bd7a89" />
+<img width="1271" height="593" alt="image" src="https://github.com/user-attachments/assets/27bf2a83-5a02-4bac-b9f2-5f0e7ac77326" />
+<img width="742" height="667" alt="image" src="https://github.com/user-attachments/assets/5bee0d59-c323-44c6-af20-405e4d23ac0d" />
+<img width="947" height="530" alt="image" src="https://github.com/user-attachments/assets/ec6350ef-dd28-470b-9208-ee39e7750074" />
+<img width="1139" height="537" alt="image" src="https://github.com/user-attachments/assets/5bdf02f3-8aed-4516-82d7-12416e254128" />
 
 
 ## Bill of Materials

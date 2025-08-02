@@ -23,8 +23,8 @@ I started modelling the frame by making a master sketch which I would then use a
 Affter a few extrusions and fillets, the robot is starting to take shape.
 <img width="744" height="600" alt="image" src="https://github.com/user-attachments/assets/b1371737-7ddf-491d-a0fc-7eb8ca5448f2" />
 From there I added wheelguards and made space for the drive motors. I also started to think about how the top plate would be mounted.
-<img width="679" height="592" alt="image" src="https://github.com/user-attachments/assets/979dd80c-9816-43bd-be6f-b068d5e24c94" />
-After that, I added mounting holes for everything, added the top plate, and created a cutout for the weapon motor wires.
+<img width="769" height="588" alt="image" src="https://github.com/user-attachments/assets/af75d781-09ca-4cb7-aae5-9dd5dff28b34" />
+After that, I added the top plate and created a cutout for the weapon motor wires.
 
 Along with making most of the CAD model, I also started working on the Bill of Materials and weight sheet for this robot, allowing me to check to make sure I was underbudget and underweight.
 
